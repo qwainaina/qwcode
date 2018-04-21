@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1511953561 source:c:\users\qwain\desktop\lesson\basic c++\passing values through pointers\main.cpp
+	<iostream>
+
+1511951417 source:c:\users\qwain\desktop\lesson\basic c++\passing values through pointers\src\myclass.cpp
+	"myclass.h"
+	<iostream>
+
+1511951061 c:\users\qwain\desktop\lesson\basic c++\passing values through pointers\include\myclass.h
+

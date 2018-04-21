@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1513939069 source:c:\users\qwain\desktop\lesson\basic c++\destructors\main.cpp
+	<iostream>
+	"MyClass.h"
+
+1513939094 source:c:\users\qwain\desktop\lesson\basic c++\destructors\myclass.cpp
+	"MyClass.h"
+	<iostream>
+
+1513938908 c:\users\qwain\desktop\lesson\basic c++\destructors\myclass.h
+

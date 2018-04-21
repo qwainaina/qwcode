@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513091947 source:c:\users\qwain\desktop\lesson\basic c++\example\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+

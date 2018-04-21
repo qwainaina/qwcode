@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513002105 source:c:\users\qwain\desktop\lesson\basic c++\vectors\main.cpp
+	<iostream>
+	<vector>
+

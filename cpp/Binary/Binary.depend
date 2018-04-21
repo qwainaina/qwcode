@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512467436 source:c:\users\qwain\desktop\lesson\basic c++\binary\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513938521 source:c:\users\qwain\desktop\lesson\basic c++\using ponters in classes\myclass.cpp
+	"MyClass.h"
+	<iostream>
+	<string>
+
+1513938521 c:\users\qwain\desktop\lesson\basic c++\using ponters in classes\myclass.h
+
+1513938535 source:c:\users\qwain\desktop\lesson\basic c++\using ponters in classes\main.cpp
+	<iostream>
+	<string>
+	"MyClass.h"
+

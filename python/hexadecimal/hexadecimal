@@ -1,0 +1,6 @@
+#Written by qwainaina
+import hashlib
+text_enc = hashlib.sha256()
+text_enc.update(b'Hello World!')
+#Printing Hex Digest for SHA256 String
+print(text_enc.hexdigest())

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1513763723 source:c:\users\qwain\desktop\lesson\basic c++\working with header files - classes\myclass.cpp
+	"MyClass.h"
+	<iostream>
+
+1513763775 c:\users\qwain\desktop\lesson\basic c++\working with header files - classes\myclass.h
+
+1513763748 source:c:\users\qwain\desktop\lesson\basic c++\working with header files - classes\main.cpp
+	<iostream>
+	"MyClass.h"
+
